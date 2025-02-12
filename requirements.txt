@@ -2,4 +2,3 @@ streamlit
 python-dotenv
 google-genai
 Pillow
-shelve
